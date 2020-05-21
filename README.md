@@ -3,7 +3,14 @@
 
 소스코드 리포는 Azure Devops에 (private)
 
+## Contributors
+
+프론트엔드, 백엔드: Lemongreen
+백엔드 도움: UnderC
+크로스 플랫폼 밒 도움: Helloyunho
+기타 버그 수정 도움: Seia
+
 ## 문의
 
-Twitter @starterdroid
+Twitter @starterdroid   
 Discord Lemongreen#0001
