@@ -3,6 +3,8 @@
 
 소스코드 리포는 Azure Devops에 (private)
 
+### [마이자캐 다운로드하기](https://github.com/Bananamilk452/mycharacter-organizer/releases)
+
 ## Contributors
 
 프론트엔드, 백엔드: Lemongreen   
