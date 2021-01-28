@@ -4,6 +4,7 @@
 소스코드 리포는 Azure Devops에 (private)
 
 ### [마이자캐 다운로드하기](https://github.com/Bananamilk452/mycharacter-organizer/releases)
+### [마이자캐 디스코드](https://discord.gg/4neFvrf)
 
 ## Contributors
 
